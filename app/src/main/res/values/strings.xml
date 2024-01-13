@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DizionApp</string>
+    <string name="app_name_capitalized">DIZIONAPP</string>
+
+    <string name="parolaDaRicercare_textView">Inserisci la parola da ricercare:</string>
+    <string name="buttonSearch_text">Cerca</string>
+    <string name="progressTextView_text">Ricercando...</string>
+    <string name="tooltipResultItem">Clicca per ulteriori informazioni</string>
+    <string name="toastMessageNoResult">Nessun risultato trovato</string>
+    <string name="noResultsTextView_text">Nessun risultato trovato. Si assicuri che il sostantivo inserito non sia al plurale o al femminile, che il verbo non sia già coniugato e che non sia stato commesso alcun errore di battitura.</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="violetPrimary">#3700B3</color>
+    <color name="violetPrimaryDark">#260080</color>
+    <color name="violetAccent">#FFFFFF</color>
+<!--    <color name="violet_list_item_word">#3700B3</color>-->
+
+    <!-- GreenTheme -->
+    <color name="greenPrimary">#16974C</color>
+    <color name="greenPrimaryDark">#118542</color>
+    <color name="greenAccent">#FFFFFF</color>
+
+    <!-- MintTheme -->
+<!--    <color name="greenPrimary">#0F582E</color>-->
+<!--    <color name="greenPrimaryDark">#0B3E20</color>-->
+<!--    <color name="greenAccent">#FFFFFF</color>-->
+<!--    <color name="green_list_item_word">#0F582E</color>-->
+    <!-- GreenTheme -->
+
+
+</resources>

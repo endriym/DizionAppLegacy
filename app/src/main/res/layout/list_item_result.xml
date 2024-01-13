@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+        <variable
+            name="dictionary"
+            type="com.munity.dizionapp.dictionaries.IDictionary" />
+    </data>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="125dp"
+        android:background="@color/greenPrimary"
+        android:orientation="vertical"
+        android:tooltipText="@string/tooltipResultItem">
+
+            <TextView
+                android:id="@+id/resultText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="14dp"
+                android:textSize="16sp"
+                android:textColor="@android:color/white"
+                tools:text="Ciao come va" />
+
+    </LinearLayout>
+
+</layout>
