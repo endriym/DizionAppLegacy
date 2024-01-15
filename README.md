@@ -2,7 +2,14 @@
 
 Android dictionary app for Italian: it combines results from [Corriere della Sera](https://dizionari.corriere.it/dizionario_italiano/) and [LaRepubblica](https://dizionari.repubblica.it/).
 
-It’s a single-activity app with 2 fragments. 
+It’s a single-activity app with 2 fragments.
+
+<p float="left">
+  <img src="https://github.com/endriym/DizionAppLegacy/assets/114886608/53a0e711-9dd3-4050-8c29-5ce91fbeddd6" height="500"  />
+  <img src="https://github.com/endriym/DizionAppLegacy/assets/114886608/add141fb-b63c-4389-ab5f-0ef3edca7ac7" height="500" />
+  <img src="https://github.com/endriym/DizionAppLegacy/assets/114886608/5acc09ba-d069-4443-aa6d-f771c66f121a" height="500"  />
+</p>
+
 
 ### Tech Stack
 
